@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fc28bb7-5b2c-46ef-8596-6a73c0143c61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/attandance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Attendance/Attendance-10_14_24.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Attendance/Attendance-10_22_24.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/face_recognition_model.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Aindrik_2201030600001/Aindrik_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Aindrik_2201030600001/Aindrik_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Aindrik_2201030600001/Aindrik_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Aindrik_2201030600001/Aindrik_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Aindrik_2201030600001/Aindrik_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Aindrik_2201030600001/Aindrik_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Aindrik_2201030600001/Aindrik_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Aindrik_2201030600001/Aindrik_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Aindrik_2201030600001/Aindrik_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Aindrik_2201030600001/Aindrik_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Dhruv Soni_2301030630012/Dhruv Soni_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Dhruv Soni_2301030630012/Dhruv Soni_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Dhruv Soni_2301030630012/Dhruv Soni_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Dhruv Soni_2301030630012/Dhruv Soni_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Dhruv Soni_2301030630012/Dhruv Soni_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Dhruv Soni_2301030630012/Dhruv Soni_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Dhruv Soni_2301030630012/Dhruv Soni_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Dhruv Soni_2301030630012/Dhruv Soni_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Dhruv Soni_2301030630012/Dhruv Soni_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Dhruv Soni_2301030630012/Dhruv Soni_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Vrushank Rami_2301030630008/Vrushank Rami_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Vrushank Rami_2301030630008/Vrushank Rami_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Vrushank Rami_2301030630008/Vrushank Rami_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Vrushank Rami_2301030630008/Vrushank Rami_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Vrushank Rami_2301030630008/Vrushank Rami_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Vrushank Rami_2301030630008/Vrushank Rami_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Vrushank Rami_2301030630008/Vrushank Rami_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Vrushank Rami_2301030630008/Vrushank Rami_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Vrushank Rami_2301030630008/Vrushank Rami_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/faces/Vrushank Rami_2301030630008/Vrushank Rami_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-    </list>
+    <list default="true" id="9fc28bb7-5b2c-46ef-8596-6a73c0143c61" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,22 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Flask server.attandance.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/flaskSDP&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Flask server.attandance.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/flaskSDP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\PycharmProjects\attandance" />
@@ -146,6 +101,7 @@
       <workItem from="1729668312430" duration="2000" />
       <workItem from="1729669040591" duration="840000" />
       <workItem from="1729698615120" duration="678000" />
+      <workItem from="1730605922916" duration="319000" />
     </task>
     <servers />
   </component>
