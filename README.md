@@ -34,4 +34,4 @@ KNN is a simple yet effective algorithm used for classification tasks. In this p
 2. **Training**: The KNN algorithm is trained with labeled data (images of users).
 3. **Classification**: When a new face is detected, the algorithm compares it to the existing data and identifies the closest match based on distance metrics.
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Crafted+with+❤️+by+Aindrik+Sarkar" alt="Typing SVG"> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Written+with+❤️+by+Aindrik" alt="Typing SVG"> </p>
