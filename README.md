@@ -7,10 +7,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Algorithm Overview](#algorithm-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Face Recognition Based Attendance System is a robust and efficient application designed to automate the attendance process using facial recognition technology. Leveraging the K-Nearest Neighbors (KNN) algorithm, this system provides an accurate and user-friendly method to track attendance, minimizing manual input and maximizing efficiency.
@@ -38,10 +34,4 @@ KNN is a simple yet effective algorithm used for classification tasks. In this p
 2. **Training**: The KNN algorithm is trained with labeled data (images of users).
 3. **Classification**: When a new face is detected, the algorithm compares it to the existing data and identifies the closest match based on distance metrics.
 
-## Installation
-To set up the project locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/iamaindrik/face-attendance-system.git
-   cd face-attendance-system
