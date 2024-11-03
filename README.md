@@ -1,6 +1,6 @@
 # Face Recognition Based Attendance System
 
-<p align="left"><img src="https://github.com/pande17827/Face_Recognition_Attendance_System/blob/main/face-recognition.jpg"></p>
+<p align="centre"><img src="https://github.com/pande17827/Face_Recognition_Attendance_System/blob/main/face-recognition.jpg"></p>
 
 ## Table of Contents
 - [Introduction](#introduction)
