@@ -35,6 +35,8 @@ KNN is a simple yet effective algorithm used for classification tasks. In this p
 3. **Classification**: When a new face is detected, the algorithm compares it to the existing data and identifies the closest match based on distance metrics.
 
 
+
+
     <h2>Setup and Running Instructions</h2>
     <h3>Step 1: Clone the Repository</h3>
     <p>Open your terminal or command prompt and run the following command:</p>
@@ -60,7 +62,5 @@ KNN is a simple yet effective algorithm used for classification tasks. In this p
     <h3>Step 6: Access the Application</h3>
     <p>Open your web browser and go to the URL displayed in the terminal, typically:</p>
     <pre><code>http://127.0.0.1:5000</code></pre>
-    <h2>Additional Information</h2>
-    <p>For more details, refer to the project documentation or the <code>README.md</code> file.</p>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Written+with+❤️+by+Aindrik" alt="Typing SVG"> </p>
